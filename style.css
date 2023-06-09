@@ -1,8 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 p {
     background-color: #34495E;
     border-radius: 20px;
     padding: 21px;
     padding: 10px 70px;
     color: aliceblue;
+    margin: 20px;
 
+}
+h1 {
+    margin: 20px;
 }
